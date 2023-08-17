@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Anu</title>
+   </head>
+   <body>
+      <h4># example:</h4>
+      <p>gem install private_heroku --source https://gemgate-heroku-internal-gems.herokuapp.com/ </p>
+   </body>
+</html>
+
